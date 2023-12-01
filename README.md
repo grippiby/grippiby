@@ -1,7 +1,3 @@
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <h1 align="center">Hey there 👋<br><br>This is my GitHub profile. <br><br>I`m Frontend developer with experience in developing on the stack of JavaScript, TypeScript, React, and Redux technologies. Now I am expanding my knowledge using Next.js. My focus is on attention to detail, writing understandable code, and using technology effectively in web development. I am ready to become a part of a professional team and contribute to projects.</h1>
 
 ###
